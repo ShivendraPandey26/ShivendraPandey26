@@ -11,5 +11,3 @@
 
 - 🌱 I’m currently learning **React** - 📫 How to reach me
 **aviralpandey7974@gmail.com**
-
-<h1>ThankU.......</h1>
