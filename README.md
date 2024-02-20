@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shivendra kumar pandey and I'm a frontend developer from Raipur Chhattisgarh</h2>
+<h2 align="left">Hi 👋! My name is Shivendra kumar pandey and I'm a frontend developer.</h2>
 
 ###
 
